@@ -1,0 +1,53 @@
+[
+    {
+        "imagen": "./img/prod4.jpeg",
+        "titulo": "Promo 2 bermudas y remera",
+        "precio": 57000
+    },
+    {
+        "imagen": "./img/prod7.jpeg",
+        "titulo": "Buzo",
+        "precio": 25000
+    },
+    {
+        "imagen": "./img/prod11.jpeg",
+        "titulo": "Remera",
+        "precio": 10000
+    },
+    {
+        "imagen": "./img/prod10.jpeg",
+        "titulo": "Bermuda",
+        "precio": 30000
+    },
+    {
+        "imagen": "./img/prod12.jpeg",
+        "titulo": "Promo bermuda y remera",
+        "precio": 46000
+    },
+    {
+        "imagen": "./img/prod13.jpeg",
+        "titulo": "Remera",
+        "precio": 10000
+    },
+    {
+        "imagen": "./img/prod15.jpeg",
+        "titulo": "Medias",
+        "precio": 4500
+    },
+    {
+        "imagen": "./img/prod9.jpeg",
+        "titulo": " Remera Hard",
+        "precio": 10000
+    },
+    {
+        "imagen": "./img/prod3.jpeg",
+        "titulo": "Promo Remera y cargo",
+        "precio": 70000
+    },
+    {
+        "imagen": "./img/prod5.jpeg",
+        "titulo": "Promo Remera y cargo",
+        "precio": 70000
+    }
+    
+]
